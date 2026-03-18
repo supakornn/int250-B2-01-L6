@@ -1,4 +1,4 @@
-# int250-2025-B2-01-L6
+# int250-B2-01-L6
 
 This template should help get you started developing with Vue 3 in Vite.
 
